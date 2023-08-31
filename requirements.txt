@@ -1,0 +1,13 @@
+openai
+streamlit
+streamlit-extras
+streamlit-chat
+streamlit-lottie
+Pillow
+langchain
+PyPDF2
+chromadb
+tiktoken
+pandas
+pysqlite3-binary
+pycryptodome
